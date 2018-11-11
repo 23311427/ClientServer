@@ -1,5 +1,11 @@
 README
 
+-------------------------------------------------------
+-------------------------------------------------------
+THE CLASSES THAT START WITH "A_" ARE MY FINAL VERSION!!!
+-------------------------------------------------------
+-------------------------------------------------------
+
 This will be a very simple game.
 Press "m" and enter to make a move
 Press "f" to finish a move
